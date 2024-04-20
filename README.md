@@ -1,4 +1,4 @@
-### Hello!
+### Hello! (in progress)
 <p align=center>
 <a href="https://www.linkedin.com/in/jaden-zaleski/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-icon?style=for-the-badge&logo=linkedin&color=2D64BC"/></a>
 <a href="https://jadenzaleski.com" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/jadenzaleski.com-black?style=for-the-badge"/></a>
