@@ -41,5 +41,5 @@
 </p>
     <hr>
 <p align=center>
-  <img src="https://streak-stats.demolab.com?user=jadenzaleski&theme=dark&hide_border=true&card_width=525&background=45%2C2E3192%2C1BFFFF&dates=303030A0" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=jadenzaleski&theme=dark&hide_border=true&card_width=525&background=45%2C2E3192%2C1BFFFF&dates=353535" alt="GitHub Streak" />
 </p>
