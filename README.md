@@ -36,7 +36,31 @@
   </p>
   <h3>Frameworks / Libraries / Software</h3>
   <p>
-    More coming soon
+    <img alt="Static Badge" src="https://img.shields.io/badge/Raspberry%20Pi-none?style=flat-square&logo=Raspberry%20Pi&logoColor=fff&color=%23A22846">
+    <img alt="Static Badge" src="https://img.shields.io/badge/iOS-none?style=flat-square&logo=apple&logoColor=fff&color=%23000000">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Arduino-none?style=flat-square&logo=Arduino&logoColor=fff&color=%2300878F">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Linux-none?style=flat-square&logo=Linux&logoColor=000&color=%23FCC624">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Android-none?style=flat-square&logo=Android&logoColor=fff&color=%2334A853">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Apache-none?style=flat-square&logo=Apache&logoColor=fff&color=%23D22128">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-none?style=flat-square&logo=Node.js&logoColor=fff&color=%23339933">
+    <img alt="Static Badge" src="https://img.shields.io/badge/JQuery-none?style=flat-square&logo=JQuery&logoColor=fff&color=%230769AD">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-none?style=flat-square&logo=Bootstrap&logoColor=fff&color=%237952B3">
+    <img alt="Static Badge" src="https://img.shields.io/badge/.Net-none?style=flat-square&logo=Microsoft&logoColor=fff&color=%23512BD4">
+    <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-none?style=flat-square&logo=MySql&logoColor=fff&color=%234479A1">
+    <img alt="Static Badge" src="https://img.shields.io/badge/sqlite-none?style=flat-square&logo=sqlite&logoColor=fff&color=%23003B57">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Git-none?style=flat-square&logo=Git&logoColor=fff&color=%23F05032">
+    <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-none?style=flat-square&logo=GitHub&logoColor=fff&color=%23181717">
+    <img alt="Static Badge" src="https://img.shields.io/badge/GitLab-none?style=flat-square&logo=GitLab&logoColor=fff&color=%23FC6D26">
+    <img alt="Static Badge" src="https://img.shields.io/badge/VS%20Code-none?style=flat-square&logo=visualstudiocode&logoColor=fff&color=%23007ACC">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Xcode-none?style=flat-square&logo=Xcode&logoColor=fff&color=%23147EFB">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Android%20Studio-none?style=flat-square&logo=Android%20Studio&logoColor=fff&color=%233DDC84">
+
+    jetbrains - all
+    
+    <img alt="Static Badge" src="https://img.shields.io/badge/Fusion%20360-none?style=flat-square&logo=autodesk&logoColor=fff&color=%23DC6B2B">
+
+    
+    
   </p>
 </p>
     <hr>
