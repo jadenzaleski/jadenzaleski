@@ -68,3 +68,6 @@
   <a href="https://roadmap.sh/u/jaden"><img src="https://api.roadmap.sh/v1-badge/wide/66253777e699ec2b9b3851be?variant=dark" alt="roadmap.sh"/></a>
   <img src="https://streak-stats.demolab.com?user=jadenzaleski&theme=dark&hide_border=true&card_width=500&background=45%2C2E3192%2C1BFFFF&dates=353535" alt="GitHub Streak" />
 </p>
+<p align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=jadenzaleski&column=-1&margin-w=5&theme=onedark&no-frame=true&no-bg=true"/>
+</p>
