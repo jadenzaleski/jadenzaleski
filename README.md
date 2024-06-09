@@ -45,6 +45,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-none?style=flat-square&logo=Node.js&logoColor=fff&color=%23339933">
     <img alt="Static Badge" src="https://img.shields.io/badge/jQuery-none?style=flat-square&logo=JQuery&logoColor=fff&color=%230769AD">
     <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-none?style=flat-square&logo=Bootstrap&logoColor=fff&color=%237952B3">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind%20CSS-none?style=flat-square&logo=tailwindcss&logoColor=fff&color=%2306B6D4">
     <img alt="Static Badge" src="https://img.shields.io/badge/.Net-none?style=flat-square&logo=Microsoft&logoColor=fff&color=%23512BD4">
     <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-none?style=flat-square&logo=MySql&logoColor=fff&color=%234479A1">
     <img alt="Static Badge" src="https://img.shields.io/badge/SQLite-none?style=flat-square&logo=sqlite&logoColor=fff&color=%23003B57">
