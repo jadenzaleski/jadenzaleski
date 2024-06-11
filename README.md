@@ -51,6 +51,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/.Net-none?style=flat-square&logo=Microsoft&logoColor=fff&color=%23512BD4">
     <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-none?style=flat-square&logo=MySql&logoColor=fff&color=%234479A1">
     <img alt="Static Badge" src="https://img.shields.io/badge/SQLite-none?style=flat-square&logo=sqlite&logoColor=fff&color=%23003B57">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Google%20Maps-none?style=flat-square&logo=googlemaps&logoColor=fff&color=%234285F4">
     <img alt="Static Badge" src="https://img.shields.io/badge/Git-none?style=flat-square&logo=Git&logoColor=fff&color=%23F05032">
     <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-none?style=flat-square&logo=GitHub&logoColor=fff&color=%23181717">
     <img alt="Static Badge" src="https://img.shields.io/badge/GitLab-none?style=flat-square&logo=GitLab&logoColor=fff&color=%23FC6D26">
