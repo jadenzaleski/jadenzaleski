@@ -64,6 +64,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/PyCharm-none?style=flat-square&logo=pycharm&logoColor=fff&color=%23000000">
     <img alt="Static Badge" src="https://img.shields.io/badge/DataGrip-none?style=flat-square&logo=datagrip&logoColor=fff&color=%23000000">
     <img alt="Static Badge" src="https://img.shields.io/badge/Rider-none?style=flat-square&logo=rider&logoColor=fff&color=%23000000">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Vim-none?style=flat&logo=vim&color=%23019733">
     <img alt="Static Badge" src="https://img.shields.io/badge/Fusion%20360-none?style=flat-square&logo=autodesk&logoColor=fff&color=%23DC6B2B">
   </p>
 </p>
