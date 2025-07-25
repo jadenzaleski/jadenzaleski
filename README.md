@@ -20,7 +20,7 @@
   <h3>Languages</h3>
   <p>
     <img alt="Static Badge" src="https://img.shields.io/badge/HTML-none?style=flat-square&logo=HTML5&logoColor=fff&color=E34F26">
-    <img alt="Static Badge" src="https://img.shields.io/badge/CSS-none?style=flat-square&logo=CSS3&logoColor=fff&color=%231572B6">
+    <img alt="Static Badge" src="https://img.shields.io/badge/CSS-none?style=flat-square&logo=CSS&logoColor=fff&color=%231572B6">
     <img alt="Static Badge" src="https://img.shields.io/badge/PHP-none?style=flat-square&logo=PHP&logoColor=fff&color=%23777BB4">
     <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-none?style=flat-square&logo=JavaScript&logoColor=000&color=%23F7DF1E">
     <img alt="Static Badge" src="https://img.shields.io/badge/Python-none?style=flat-square&logo=Python&logoColor=fff&color=%233776AB">
