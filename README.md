@@ -1,7 +1,3 @@
-
-<p align=center>
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=30&pause=1000&color=2C68F6&center=true&vCenter=true&random=false&width=600&lines=Hello!;I'm+Jaden;Full-stack+app+and+web+developer;Always+learning+new+things!" alt="Typing SVG" />
-</p>
 <p align=center>
   <a href="https://www.linkedin.com/in/jaden-zaleski/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/jaden--zaleski-icon?style=for-the-badge&logo=linkedin&color=2D64BC"/></a>
   <a href="https://jadenzaleski.com" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/jadenzaleski.com-black?style=for-the-badge"/></a>
