@@ -5,9 +5,12 @@
 <p align=center>
   <img align=right src="https://github-readme-stats-nu-beryl-93.vercel.app/api/?username=jadenzaleski&show_icons=true&theme=transparent&hide_border=true&rank_icon=percentile&line_height=22&ring_color=EA9135&icon_color=EA9135&text_color=2C68F6&text_bold=false&title_color=EA9135" alt="stats"/>
   <p>
-  My name is Jaden Zaleski, and I am a recent graduate from Miami University with a Bachelor's degree in Computer Science. Please feel free to check out my current repositories and do not hesitate to reach out with any questions. My portfolio website can be found at <a href="jadenzaleski.com">jadenzaleski.com</a>, along with my <a href="www.linkedin.com/in/jaden-zaleski">LinkedIn<a/>. I love spending my free time on mobile and web development, and if you would like to work with me or have ideas please contact me!
+  Hi, I’m Jaden. I enjoy building all kinds of software, from mobile apps to APIs and infrastructure projects. Most of my repositories are experiments, tools, or products I’m actively working on. Feel free to explore my projects or visit my portfolio at <a href="jadenzaleski.com" target="_blank">jadenzaleski.com</a>.
   </p>
 </p>
+<br><br>
+
+
 <hr>
 <p>
   <h1 align=center>My Tools</h1>
